@@ -1,5 +1,7 @@
+.idea/vcs.xml
+.idea/workspace.xml
+.idea
 venv/
 *.pyc
 .vagrant/
-.idea
 devbox_build/devbox.retry
